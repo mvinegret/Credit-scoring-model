@@ -1,4 +1,4 @@
-# This is a slightly modified version of the original credit scoring model from Max where I've fixed some imports which have been changed and I'll also add the source files that he imported soon™
+# This is a slightly modified version of the original credit scoring model from Max where I've fixed some submodule imports which have been changed and I'll also add the source files that he imported soon™
 
 # Probability of default: credit scoring model
 
